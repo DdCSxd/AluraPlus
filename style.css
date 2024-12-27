@@ -132,12 +132,11 @@ font-size: 1.625rem;
     padding: 0.5rem;
     list-style-type: none;
     color: var(--branco-principal);
+    text-decoration: none;
+    color: var(--branco-principal);
 }
 
 .link {
-    
-    text-decoration: none;
-    color: var(--branco-principal);
     
 }
 
